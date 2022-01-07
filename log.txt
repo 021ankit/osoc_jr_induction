@@ -1,0 +1,44 @@
+commit cd4473f1f0a9eaed976b79a69f103f29df603a40
+Author: 021_ankit <ar5037477@gmail.com>
+Date:   Fri Jan 7 17:19:05 2022 +0530
+
+    merge conflict information and it's solution is added to solution.txt
+
+commit 7ccf4eada2f972cf6fb03a281203ec68805fb96e
+Merge: 9dac472 deba438
+Author: 021_ankit <ar5037477@gmail.com>
+Date:   Fri Jan 7 17:04:29 2022 +0530
+
+    The merge conflict is resolved
+
+commit 9dac472ca45fa3d93caafd493b1c454a62bd87c6
+Author: 021_ankit <ar5037477@gmail.com>
+Date:   Fri Jan 7 16:57:29 2022 +0530
+
+    Different line is added to git_10_commands.txt to create merge conflict in main
+
+commit deba43819d10b3c992ace9b80262fcd22c5d10e1
+Author: 021_ankit <ar5037477@gmail.com>
+Date:   Fri Jan 7 16:51:34 2022 +0530
+
+    Additional line is added to create merge conflict
+
+commit 2bbaaf39527ce9fadee861b54a52e175cba0be3c
+Merge: 84d38b4 873bb15
+Author: 021_ankit <ar5037477@gmail.com>
+Date:   Fri Jan 7 16:43:18 2022 +0530
+
+    Merge branch 'branch_osoc'
+    to create merge conflict
+
+commit 873bb155ea13cf1671c7ba3b1b9c0aa462be23ae
+Author: 021_ankit <ar5037477@gmail.com>
+Date:   Fri Jan 7 16:39:58 2022 +0530
+
+    commands added to git_10_commands.txt file
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit
