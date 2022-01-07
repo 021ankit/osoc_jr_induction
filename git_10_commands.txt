@@ -8,4 +8,5 @@
 8) git rebase- Rebasing lets you move branches around, which helps you avoid unnecessary merge commits. The resulting linear history is often much easier to understand and explore.
 9) git fetch- Fetching downloads a branch from another repositary, along with all of its associated commits and files. But it does'nt try to integrate anything into your local repository. This gives you a chance to inspect chnges before merging them with your project.
 10) git reflog- Git keeps track of updates to the tip of branches using a mechanism called reflog. This allows you to go back to changes even though they are not referenced by any branch or tag.
+This is another line to create merge conflict
 
