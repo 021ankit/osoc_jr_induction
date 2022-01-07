@@ -1,0 +1,3 @@
+Merge conflict- merge conflict occurs when we added different data in same file using different branches and trying to merge those branches.
+Solution - the easiest way to resolve a conflicted file is to open it and make any necessary changes. After editing the file we can use git add . command the final step is to create a new commit with the help of git commit comand
+
