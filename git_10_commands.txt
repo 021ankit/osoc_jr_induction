@@ -1,0 +1,11 @@
+1) git remote- To connect a local repository with a remote repository. A remote repositary can have a name set to avoid having to remember the URL of the repository.
+2) git pull- To get a latest version of repository run git pull. This pulls the change from the remote repositary to the local computer.
+3) git stash- To save changes made when they're no in a state to commit them to a repository. This will store the work and give a clean working directory.
+4) git rm- Removes files or directories from the working index. With git rm there are two options to keep in mind: force and cached. Running the command with force deletes the file. The cached command removes the file from working index. When removing an entire directory, a recursive command is necessary.
+5) git clean- Removes untracked files from the working directory. This is the logical counterpart to git reset, which only operates on tracked files.
+6) git revert- Undoes a commited snapshot. When you discover a faulty commit, reverting is a safe and easy way to completely remove it from the code base.
+7) git reset- Undoes changes to files in the working directory. Resetting lets you clean up or completely removes changes that have not been pushed to a public repository.
+8) git rebase- Rebasing lets you move branches around, which helps you avoid unnecessary merge commits. The resulting linear history is often much easier to understand and explore.
+9) git fetch- Fetching downloads a branch from another repositary, along with all of its associated commits and files. But it does'nt try to integrate anything into your local repository. This gives you a chance to inspect chnges before merging them with your project.
+10) git reflog- Git keeps track of updates to the tip of branches using a mechanism called reflog. This allows you to go back to changes even though they are not referenced by any branch or tag.
+
